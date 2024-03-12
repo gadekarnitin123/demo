@@ -1,3 +1,4 @@
 # demo
-my first git repo
-author :nitin
+My first git repository(folder).
+<br>
+Author: nitin
